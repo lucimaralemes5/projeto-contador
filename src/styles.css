@@ -1,0 +1,26 @@
+.contador {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 150px;
+  color: #006491;
+}
+
+button {
+  font-size: 30px;
+  margin: 0 30px;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.azul {
+  background-color: #006491;
+}
+.vermelho {
+  background-color: #e31837;
+}
